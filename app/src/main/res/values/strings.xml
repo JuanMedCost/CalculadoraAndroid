@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">La mejor calculadora</string>
+    <string name="numeroUno">1</string>
+    <string name="numeroDos">2</string>
+    <string name="numeroTres">3</string>
+    <string name="numeroCuatro">4</string>
+    <string name="numeroCinco">5</string>
+    <string name="numeroSeis">6</string>
+    <string name="numeroSiete">7</string>
+    <string name="numeroOcho">8</string>
+    <string name="numeroNueve">9</string>
+    <string name="numeroCero">0</string>
+    <string name="simboloPotencia">x^</string>
+    <string name="simboloRaiz">√x</string>
+    <string name="simboloDividir">÷</string>
+    <string name="simboloMultiplicar">x</string>
+    <string name="simboloRestar">-</string>
+    <string name="simboloSumar">+</string>
+    <string name="simboloIgual">=</string>
+    <string name="simboloComa">,</string>
+    <string name="simboloMasMenos">+/-</string>
+    <string name="simboloBorrarT">C</string>
+    <string name="simboloBorrar">CE</string>
+
+</resources>
